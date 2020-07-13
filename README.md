@@ -40,6 +40,6 @@ Sort as confidence 🙃
   
 ## Interest
 
-**Main**: React, Typescript
-**Side**: TDD, emotion-js, UI/UX
-**Humanly**: Netflix(always watching "Friends"), Action movie, cityPop
+- **Main**: React, Typescript
+- **Side**: TDD, emotion-js, UI/UX
+- **Humanly**: Netflix(always watching "Friends"), Action movie, cityPop
