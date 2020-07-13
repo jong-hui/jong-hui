@@ -36,7 +36,7 @@ Sort as confidence 🙃
 - Swift
   - Texture
 - UI design
-  - [My work]<https://www.pinterest.co.kr/lIlllIIIIlIllI/portfolio/>
+  - [My work](https://www.pinterest.co.kr/lIlllIIIIlIllI/portfolio/)
   
 ## Interest
 
