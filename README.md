@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-Sort as confidence 🙃
-
 - Javascript
   - Typescript
   - Webpack, babel, lint, prettier ...
