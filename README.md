@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 ## Interest
 
 - **Main**: React, Typescript
-- **Side**: TDD, emotion-js, UI/UX
+- **Side**: UI/UX
 - **Humanly**: Netflix(always watching "Friends"), Action movie, cityPop
