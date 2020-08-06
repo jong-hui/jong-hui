@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+contact me: [email](mailto:webd200@gmail.com)
+
 ## Skills
 - Javascript
   - Typescript
