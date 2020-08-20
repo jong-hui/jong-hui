@@ -26,9 +26,14 @@ contact me: [email](mailto:webd200@gmail.com)
   - Storyboard
 - Vue
 <details><summary><b>etc...</b></summary>
-- CSS
-  - scss, sass
-  - Styled-component, material-ui
+<ul>
+  <li>CSS</li>
+  <li>
+    <ul>
+      <li>scss, sass</li>
+      <li>Styled-component, material-ui</li>
+    </ul>
+  </li>
 - PHP
   - Laravel
 - Mysql
@@ -38,6 +43,7 @@ contact me: [email](mailto:webd200@gmail.com)
   - Texture
 - UI design
   - [My work](https://www.pinterest.co.kr/lIlllIIIIlIllI/portfolio/)
+</ul>
 </details>
 ## Interest
 
