@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 contact me: [email](mailto:webd200@gmail.com)
 
 ## Skills
-- Javascript
-  - Typescript
+- **Javascript**
+  - **Typescript**
   - Webpack, babel, lint, prettier ...
 - React, React Native
   - I ❤️ with Typescript
   - Storyboard
 - Vue
+<details><summary><b>etc...</b></summary>
 - CSS
   - scss, sass
   - Styled-component, material-ui
@@ -37,7 +38,7 @@ contact me: [email](mailto:webd200@gmail.com)
   - Texture
 - UI design
   - [My work](https://www.pinterest.co.kr/lIlllIIIIlIllI/portfolio/)
-  
+</details>
 ## Interest
 
 - **Main**: React, Typescript
