@@ -27,22 +27,37 @@ contact me: [email](mailto:webd200@gmail.com)
 - Vue
 <details><summary><b>etc...</b></summary>
 <ul>
-  <li>CSS</li>
   <li>
+    CSS
     <ul>
       <li>scss, sass</li>
       <li>Styled-component, material-ui</li>
     </ul>
   </li>
-- PHP
-  - Laravel
-- Mysql
-- Kotlin
-  - anko
-- Swift
-  - Texture
-- UI design
-  - [My work](https://www.pinterest.co.kr/lIlllIIIIlIllI/portfolio/)
+  <li>
+    PHP
+    <ul>
+      <li>Laravel</li>
+    </ul>
+  </li>
+  <li>
+    Mysql
+    <ul>
+      <li>Laravel</li>
+    </ul>
+  </li>
+  <li>
+    Kotlin
+  </li>
+  <li>
+    Swift
+  </li>
+  <li>
+    UI design
+    <ul>
+      <li><a href="https://www.pinterest.co.kr/lIlllIIIIlIllI/portfolio">My works</a></li>
+    </ul>
+  </li>
 </ul>
 </details>
 ## Interest
