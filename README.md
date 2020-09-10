@@ -2,7 +2,6 @@
 
 <!--
 **jong-hui/jong-hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![jong-hui github stats](https://github-readme-stats.vercel.app/api?username=jong-hui&count_private=true&show_icons=true&theme=monokai)
 
 Here are some ideas to get you started:
 
@@ -16,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-contact me: [email](mailto:webd200@gmail.com)
+![jong-hui github stats](https://github-readme-stats.vercel.app/api?username=jong-hui&count_private=true&show_icons=true&theme=monokai)
+
+contact via email: [email](mailto:webd200@gmail.com)
 
 ## Skills
 - **Javascript**
