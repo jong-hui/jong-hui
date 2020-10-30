@@ -44,9 +44,6 @@ contact via email: [email](mailto:webd200@gmail.com)
   </li>
   <li>
     Mysql
-    <ul>
-      <li>Laravel</li>
-    </ul>
   </li>
   <li>
     Kotlin
