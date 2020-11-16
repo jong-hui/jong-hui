@@ -1,4 +1,4 @@
-### jong-hui <sup>Johnny</sup>
+### jong-hui✨ <sup>Johnny</sup>
 
 <!--
 **jong-hui/jong-hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 contact via email: [email](mailto:webd200@gmail.com)
 
-## Skills
+## 🛠 Skills
 - **Javascript**
   - **Typescript**
   - Webpack, babel, lint, prettier ...
@@ -61,8 +61,12 @@ contact via email: [email](mailto:webd200@gmail.com)
 </details>
 
 
-## Interest
+## ⭐️ Interest
 
 - **Main**: React, Typescript
 - **Side**: UI/UX
 - **Humanly**: Netflix(always watching "Friends"), Action movie, cityPop
+
+## ⤵️ Contribution
+- [react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory)
+- [react-daum-postcode](https://github.com/bernard-kms/react-daum-postcode)
