@@ -68,7 +68,7 @@ contact via email: [email](mailto:webd200@gmail.com)
 - **Humanly**: Netflix(always watching "Friends"), Action movie, cityPop
 
 ## ⤵️ Contribution
-
-- [react-fc2nc](https://github.com/jong-hui/react-fc2nc)
+- Maintainer  [styled-components-mixins](https://github.com/jong-hui/styled-components-mixins)
+- Maintainer [react-fc2nc](https://github.com/jong-hui/react-fc2nc)
 - [react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory)
 - [react-daum-postcode](https://github.com/bernard-kms/react-daum-postcode)
