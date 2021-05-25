@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![jong-hui github stats](https://github-readme-stats.vercel.app/api?username=jong-hui&count_private=true&show_icons=true&theme=monokai)
+![counter](https://komarev.com/ghpvc/?username=jong-hui)
 
 contact via email: [email](mailto:webd200@gmail.com)
 
