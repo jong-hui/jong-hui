@@ -1,4 +1,4 @@
-### jong-hui✨ <sup>Johnny</sup>
+### jong-hui✨
 
 <!--
 **jong-hui/jong-hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
