@@ -61,6 +61,12 @@ contact via email: [email](mailto:webd200@gmail.com)
 </ul>
 </details>
 
+## 👨‍💻 Works
+
+- 2021.04 ~ Futurewiz (Subsidiary of Dunamu)
+  -  We want you! https://www.wanted.co.kr/wd/59358
+  -  산업기능요원
+- 2020.03 ~ 2021.03 Springonward
 
 ## ⭐️ Interest
 
