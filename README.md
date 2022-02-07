@@ -64,7 +64,8 @@ contact via email: [email](mailto:webd200@gmail.com)
 ## 👨‍💻 Works
 
 - 2021.04 ~ Futurewiz (Subsidiary of Dunamu)
-  -  We want you! https://www.wanted.co.kr/wd/59358
+  -  We want you! https://www.wanted.co.kr/wd/59358 (퓨쳐위즈, 주니어 및 시니어)
+  -  We want you! https://dunamu.com/views/05_job_contents_ko.html?id=434 (두나무, 시니어)
   -  산업기능요원
 - 2020.03 ~ 2021.03 Springonward
 
